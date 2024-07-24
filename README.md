@@ -43,7 +43,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saif-Khan&show_icons=true&locale=en" alt="Mohammed-Saif-Khan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saif-Khan&" alt="Mohammed-Saif-Khan" /></p>
